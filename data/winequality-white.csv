@@ -1,0 +1,16 @@
+--2024-03-11 19:42:31--  https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv
+Resolving archive.ics.uci.edu (archive.ics.uci.edu)... 128.195.10.252
+Connecting to archive.ics.uci.edu (archive.ics.uci.edu)|128.195.10.252|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified
+Saving to: ‘winequality-white.csv’
+
+     0K .......... .......... .......... .......... ..........  159K
+    50K .......... .......... .......... .......... ..........  332K
+   100K .......... .......... .......... .......... .......... 5.22M
+   150K .......... .......... .......... .......... .......... 7.53M
+   200K .......... .......... .......... .......... ..........  346K
+   250K ........                                               5.88M=0.6s
+
+2024-03-11 19:42:32 (412 KB/s) - ‘winequality-white.csv’ saved [264426]
+
