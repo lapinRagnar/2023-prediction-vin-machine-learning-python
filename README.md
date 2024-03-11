@@ -10,5 +10,7 @@ pip install -r requirements.txt
 ```
 
 # resources
+https://www.youtube.com/watch?v=GzknLKSkv7U
+https://www.youtube.com/watch?v=MvLLts-2sWw
 
 
